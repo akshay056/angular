@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "G7qJ6GhBOw2CPmkKx2s/3feQP/qLs0IM6Vxd+izdeG0=",
+  "Source": "signupApi",
+  "BasePath": "_content/signupApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
